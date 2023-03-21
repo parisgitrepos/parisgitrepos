@@ -1,5 +1,7 @@
 ## Hi, I'm Paris! Welcome to my GitHub profile! 
 
+Feel free to take a look at my public repositories, however a lot of my work is private and is undergoing slight modifications before being made public.
+
 <!--
 **parisgitrepos/parisgitrepos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
